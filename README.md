@@ -196,7 +196,6 @@ Evaluates customer journey conversion paths across 5 standard models:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/veerenkumar/amazon-marketing-budget-optimizer.git
 cd "Marketing Budget Optimization"
 ```
 

@@ -15,7 +15,6 @@ A step-by-step practical guide to configuring, operating, and integrating the Ma
 Clone or download the repository into your desired workspace:
 
 ```bash
-git clone https://github.com/veerenkumar/amazon-marketing-budget-optimizer.git
 cd "Marketing Budget Optimization"
 ```
 
